@@ -3,7 +3,7 @@
 Instructions for creating your LUCI page.
 
 1. Login to your github account.  If you don't have one, you will have to create an account first.
-2. Fork the repo
+2. Click the fork link to add the repository to your account
 3. Click the students or faculty directory
 4. Click "create new file"
 5. Give the new file a directory and file name using your full name.  So if your name is John Smith, name the file directory name "johnsmith" and the file name "johnsmith.html".
