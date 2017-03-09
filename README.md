@@ -2,7 +2,7 @@
 
 Instructions for creating your LUCI page.
 
-1. Go to websitecontent repo
+1. Login to your github account.  If you don't have one, you will have to create an account first.
 2. Fork the repo
 3. Click the students directory
 4. Click "create new file"
