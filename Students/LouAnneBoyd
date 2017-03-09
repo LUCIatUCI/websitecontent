@@ -1,0 +1,52 @@
+
+---
+title: "Students"
+parentTitle: "People"
+parentUrl: "people.html"
+layout: "peopletemplate"
+isPage: true
+---
+				
+	<div class="col-padded"><!-- inner custom column -->
+	
+		<div class="row gutter"><!-- row -->
+			
+				<div class="col-lg-12 col-md-12">
+	
+							<figure class="news-featured-image">	
+								<!-- your image file name should go inside src: "/img/[your-file.ext]" -->
+									<img src="/img/news-4.jpg" alt="Featured image 4" class="img-responsive" />
+							</figure>
+							
+							<div class="news-title-meta">
+								<!-- Your name -->
+									<h1 class="page-title">LouAnne Boyd</h1>
+							</div>
+							
+							<div class="news-body">
+								<!-- Each new paragraph should go inside a p tag: <p> [your paragraph text] </p> -->
+									<p>
+									I am a PhD candidate who studies nonverbal communication supported by novel technologies. I am interesting is understanding how realtime feedback on nonverbal communication promotes collaborative social behavior in for neurodiverse dyads.
+									
+								<!-- h3 makes a new title -->
+									<h3>Facts &amp; Fiction</h3>
+									<p>
+									My research focuses on designing and evelauting socails sytems in lab and field studies
+									
+							</div>
+					
+					</div>
+			
+			</div><!-- row end -->  
+			
+			<div class="row row-splitter">
+			
+			</div> 
+			
+			<div class="row gutter"><!-- row -->
+			
+			
+			</div><!-- row end -->                   
+	
+	</div><!-- inner custom column end -->
+Contact GitHub API Training Shop Blog About
