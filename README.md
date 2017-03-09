@@ -21,3 +21,5 @@ Instructions for creating your LUCI page.
 17. Give the pull request a title and description
 18. Click Create pull request
 19. That's it!  Now the next time the LUCI website is updated your changes will be added to the website.
+
+Note: If you would like to add a custom image, use the upload file button to add an image to your directory. Then replace the default image.
