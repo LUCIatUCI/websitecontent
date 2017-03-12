@@ -6,7 +6,7 @@ Instructions for creating your LUCI page.
 2. Click the fork link to add the repository to your account
 3. Click the students or faculty directory
 4. Click "create new file"
-5. Give the new file a directory and file name using your full name.  So if your name is John Smith, name the file directory name "johnsmith" and the file name "johnsmith.html".
+5. Give the new file a directory and file name using your full name.  So if your name is John Smith, name the file directory name "johnsmith" and the file name "johnsmith.html". **To make a directory add a forward slash ("/") after typing your name.**
 6. Click the "commit new file" button
 7. Move to websitecontent/templates directory
 8. Pick a template, copy the HTML from the template
