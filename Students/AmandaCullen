@@ -1,1 +1,52 @@
-
+---
+title: "Students"
+parentTitle: "People"
+parentUrl: "people.html"
+layout: "peopletemplate"
+isPage: true
+---
+				
+	<div class="col-padded"><!-- inner custom column -->
+	
+		<div class="row gutter"><!-- row -->
+			
+				<div class="col-lg-12 col-md-12">
+	
+							<figure class="news-featured-image">	
+								<!-- your image file name should go inside src: "/img/[your-file.ext]" -->
+									<img src="/img/news-4.jpg" alt="Featured image 4" class="img-responsive" />
+							</figure>
+							
+							<div class="news-title-meta">
+								<!-- Your name -->
+									<h1 class="page-title">Amanda Cullen</h1>
+							</div>
+							
+							<div class="news-body">
+								<!-- Each new paragraph should go inside a p tag: <p> [your paragraph text] </p> -->
+									<p>
+									Amanda Cullen comes to UCI from the Panhandle of Florida. Her previous degrees include a bachelor's and a master's in Cultural Anthropology from the University fo West Florida and a master's in Public Service from the University of Arkansas- Clinton School of Public Service. Her personal website can be found at http://sites.uci.edu/amandallcullen/
+									</p>
+									
+								<!-- h3 makes a new title -->
+									<h3>Research</h3>
+									<p>
+									Amanda's research interests include: video games, digital cultures, digital media, social media, fandom, sexuality, and gender. Amanda conducts her work under the tutelage of Dr. Bonnie Ruberg and Dr. Aaron Trammell. 
+									</p>
+									
+							</div>
+					
+					</div>
+			
+			</div><!-- row end -->  
+			
+			<div class="row row-splitter">
+			
+			</div> 
+			
+			<div class="row gutter"><!-- row -->
+			
+			
+			</div><!-- row end -->                   
+	
+</div><!-- inner custom column end -->
