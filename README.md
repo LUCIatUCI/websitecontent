@@ -1,4 +1,4 @@
-# LUCI Website Content
+# LUCI Website Content - an awesome directory with a readme file for the creation of page and understanding the github
 
 Instructions for creating your LUCI page.
 
